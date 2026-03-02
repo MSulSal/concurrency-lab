@@ -7,6 +7,7 @@ This is the coding target for `P00`.
 Create a repeatable benchmark harness that can compare concurrency strategies fairly.
 
 Execution and evidence format are defined in [P00_RUNBOOK.md](./P00_RUNBOOK.md).
+External CLI/behavior contracts are defined in [P00_INTERFACE_CONTRACT.md](./P00_INTERFACE_CONTRACT.md).
 
 ## Required Deliverables
 
