@@ -44,6 +44,7 @@ Store these under `bench/results/p00/`:
   - highest throughput workload
   - correctness failures observed (if any)
   - one hypothesis for `P01`
+- completed [P00_RESULTS_TEMPLATE.md](./P00_RESULTS_TEMPLATE.md)
 
 ## 5. Done Check
 
