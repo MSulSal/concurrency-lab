@@ -33,7 +33,7 @@ Examples:
 
 | Project | Title | Status | Branch | Last Commit | Notes |
 |---|---|---|---|---|---|
-| P00 | Benchmark Harness | todo | - | - | - |
+| P00 | Benchmark Harness | in_progress | main | - | doc kickoff complete; code scaffold + first benchmark pending |
 | P01 | False Sharing Demo | todo | - | - | - |
 | P02 | Counter Race | todo | - | - | - |
 | P03 | Producer-Consumer Queue | todo | - | - | - |
@@ -74,3 +74,7 @@ Append one line per working session:
 ```text
 YYYY-MM-DD | PXX | start_commit..end_commit | result | next action
 ```
+
+## Session Log
+
+- 2026-03-02 | P00 | TBD..TBD | started | implement benchmark harness scaffold and first sample benchmark
