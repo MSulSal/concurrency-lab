@@ -6,6 +6,8 @@ This is the coding target for `P00`.
 
 Create a repeatable benchmark harness that can compare concurrency strategies fairly.
 
+Execution and evidence format are defined in [P00_RUNBOOK.md](./P00_RUNBOOK.md).
+
 ## Required Deliverables
 
 1. CLI benchmark runner (`Rust`) with configurable:
