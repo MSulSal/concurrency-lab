@@ -8,6 +8,7 @@ Create a repeatable benchmark harness that can compare concurrency strategies fa
 
 Execution and evidence format are defined in [P00_RUNBOOK.md](./P00_RUNBOOK.md).
 External CLI/behavior contracts are defined in [P00_INTERFACE_CONTRACT.md](./P00_INTERFACE_CONTRACT.md).
+Beginner Rust implementation guidance is in [P00_RUST_STARTER_GUIDE.md](./P00_RUST_STARTER_GUIDE.md).
 
 ## Required Deliverables
 
