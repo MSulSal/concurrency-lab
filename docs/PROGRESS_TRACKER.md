@@ -8,6 +8,7 @@ Use this file as the source of truth for commit-wise progress.
 2. Make atomic commits only (one meaningful change per commit).
 3. Update this file in the same commit when status changes.
 4. Do not mark `done` without tests + benchmark evidence noted.
+5. After each major milestone, update `docs/CAREER_VALUE_MAP.md`.
 
 ## Commit Convention
 

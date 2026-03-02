@@ -26,6 +26,7 @@ Support language: `Python`
 - [Setup](./docs/SETUP.md): machine/tooling setup for Windows + NVIDIA.
 - [Projects](./docs/PROJECTS.md): sequential build list of labs and systems.
 - [Progress Tracker](./docs/PROGRESS_TRACKER.md): commit-wise board and session log.
+- [Career Value Map](./docs/CAREER_VALUE_MAP.md): live, evidence-based map from project milestones to realistic role readiness.
 - [Rust Beginner Path](./docs/RUST_BEGINNER_PATH.md): just-in-time Rust learning plan aligned to projects.
 - [P00 Rust Starter Guide](./docs/P00_RUST_STARTER_GUIDE.md): concrete Rust scaffolding guide for your first benchmark project.
 - [Distributed Systems Matrix](./docs/DISTRIBUTED_SYSTEMS_MATRIX.md): explicit coverage map for compute, storage, memory, messaging, and coordination.
